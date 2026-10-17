@@ -1,0 +1,7 @@
+,type,amount,oldbalanceOrg,oldbalanceDest,score,reasons,isFraud
+5563708,CASH_OUT,10000000.0,10000000.0,109827.22,0.99968624,"sender balance 10,000,000; amount 10,000,000; payment type CASH_OUT",1
+5563736,CASH_OUT,6703831.4,6703831.4,99114.49,0.99968624,"sender balance 6,703,831; amount 6,703,831; payment type CASH_OUT",1
+4967647,CASH_OUT,6721321.33,6721321.33,85644.25,0.9996785,"sender balance 6,721,321; amount 6,721,321; payment type CASH_OUT",1
+5299617,TRANSFER,1888332.83,964862.0,0.0,0.9127792,"sender balance 964,862; amount 1,888,333; receiving balance 0",0
+5580880,TRANSFER,1984333.15,907493.0,0.0,0.9127792,"sender balance 907,493; amount 1,984,333; receiving balance 0",0
+5200969,TRANSFER,2511467.44,952964.0,0.0,0.90883785,"sender balance 952,964; amount 2,511,467; receiving balance 0",0
